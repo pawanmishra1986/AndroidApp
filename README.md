@@ -1,3 +1,5 @@
+# This is readme.txt file.
+
 # AndroidApp
 Test application for Android Platform
 
